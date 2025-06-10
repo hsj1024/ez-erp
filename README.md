@@ -3,7 +3,7 @@
 EZ-ERP는 Easy + ERP의 합성어로, 기업의 지출 및 경비 처리 흐름을 단순화하여 구현한 학습용 ERP 백엔드 프로젝트입니다.
 
 ## 🔧 사용 기술
-- Java 17, Spring Boot 3.x
+- Java 21, Spring Boot 3.5.0
 - Spring Data JPA, H2 DB
 - Swagger (OpenAPI 문서화)
 - Lombok, Validation
